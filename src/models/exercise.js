@@ -14,8 +14,8 @@ const exercise=new mongoose.Schema({
         required:true
     },
     date:{
-        type:String,
-        required:true
+        type:Date,
+        default:Date.now()
     }
 })
 const newExercise=new mongoose.model("newExercise",exercise);
