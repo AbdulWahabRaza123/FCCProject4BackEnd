@@ -1,0 +1,19 @@
+#new-user{
+    background-color:antiquewhite;
+    padding:10px;
+    border-radius:10px;
+}
+#new-exercise{
+    background-color:antiquewhite;
+    padding:30px;
+    border-radius:10px;
+    margin-left:10px;
+}
+.row{
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:50px;
+}
+footer{
+    margin-left:30px;
+}
